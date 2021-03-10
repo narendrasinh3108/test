@@ -1,0 +1,4 @@
+echo "Hello everyone"
+date
+cal
+echo "End"
